@@ -5,6 +5,13 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/df66c0cbbeca7d822f23/maintainability)](https://codeclimate.com/github/hexlet-boilerplates/python-package/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/df66c0cbbeca7d822f23/test_coverage)](https://codeclimate.com/github/hexlet-boilerplates/python-package/test_coverage)
 
+### Description
+
+| Game                                                      | Description                                              |
+|-----------------------------------------------------------|----------------------------------------------------------|
+| Brain Even                                                | [Demo](https://asciinema.org/a/Wc67gazIVOMF5IDUqWgMbOFZ9)|                                             |
+
+
 ### Links
 
 This project was built using these tools:
